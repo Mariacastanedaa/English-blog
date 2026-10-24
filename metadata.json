@@ -1,0 +1,6 @@
+{
+  "name": "My English Journey",
+  "description": "An educational personal English blog by Mafe for SENA evidence GA7-240202501-AA1-EV03.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
